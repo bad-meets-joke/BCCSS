@@ -5,11 +5,12 @@ python 3.8
 pytorch 1.8
 
 ## Data
-HWDB:  
-CTW:
+HWDB: [link]()   
+CTW: [link]()
 
 ## Training
 
+### Classifier
 For HWDB, run the script
 ```
 bash ./hwdb/run_hwdb.sh
@@ -19,6 +20,11 @@ Run the shell script
 ```
 bash ./hwdb/run_ctw.sh
 ``` -->
+
+### Generator
+The code is based on [Palette](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)  
+We provide the synthesized results (HWDB-500) here. 
+
 
 ## Calibration and Test
 
