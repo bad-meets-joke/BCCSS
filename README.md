@@ -1,4 +1,5 @@
 # BCCSS
+Bayesian Classifier Calibration Based on Sythesized Samples for Zero-shot Chinese Character Recognition
 
 ## Environment
 python 3.8  
