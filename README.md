@@ -12,7 +12,7 @@ CTW: [link]()
 ## Training
 
 ### Classifier
-For HWDB, run the script
+For HWDB, please run the script
 ```
 bash ./hwdb/run_hwdb.sh
 ```
@@ -23,13 +23,13 @@ bash ./hwdb/run_ctw.sh
 ``` -->
 
 ### Generator
-The code is based on [Palette](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)  
+The code is based on [Palette](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models).   
 We provide [the synthesized results]() of unseen characters in the experiment (HWDB-500). 
 
 
 ## Calibration and Test
 
-For HWDB, run the script
+For HWDB, please run the script
 ```
 bash ./hwdb/run_calibration.sh
 ```
