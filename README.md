@@ -24,7 +24,7 @@ bash ./hwdb/run_ctw.sh
 
 ### Generator
 The code is based on [Palette](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)  
-We provide the synthesized results (HWDB-500) here. 
+We provide [the synthesized results]() of unseen characters in the experiment (HWDB-500). 
 
 
 ## Calibration and Test
