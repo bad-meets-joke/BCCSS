@@ -9,25 +9,25 @@ HWDB:
 CTW:
 
 ## Training
-### HWDB
-Run the shell script
+
+For HWDB, run the script
 ```
 bash ./hwdb/run_hwdb.sh
 ```
-### CTW
+<!-- ### CTW
 Run the shell script
 ```
 bash ./hwdb/run_ctw.sh
-```
+``` -->
 
 ## Calibration and Test
-### HWDB
+
+For HWDB, run the script
+```
+bash ./hwdb/run_calibration.sh
+```
+<!-- ### CTW
 Run the shell script
 ```
 bash ./hwdb/run_calibration_effect.sh
-```
-### CTW
-Run the shell script
-```
-bash ./hwdb/run_calibration_effect.sh
-```
+``` -->
