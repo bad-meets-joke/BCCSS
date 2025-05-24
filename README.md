@@ -1,13 +1,14 @@
 # BCCSS
-Bayesian Classifier Calibration Based on Sythesized Samples for Zero-shot Chinese Character Recognition
+**B**ayesian **C**lassifier **C**alibration Based on **S**ythesized **S**amples for Zero-shot Chinese Character Recognition
 
 ## Environment
 python 3.8  
 pytorch 1.8
 
+
 ## Data
-HWDB: [link]()  
-CTW: [link]()  
+HWDB: [link](https://pan.baidu.com/s/1uM3CUM_sAVCKxUNtrH_cQQ?pwd=9ht8)  
+CTW: [link](https://pan.baidu.com/s/1sZglcVYFlxNmoPioggB6Mw?pwd=upiv)  
 Auxiliary Printed Data: `printed.hdf5` and `printed_ctw3650.hdf5`
 
 
